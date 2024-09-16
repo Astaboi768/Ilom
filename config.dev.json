@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "brokenbwoi@gmail.com",
+    "password": "Makemoney@11",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553871285563"
+    "100090443419982",
+	"61553871285563" 
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ilom 😃",
-  "prefix": "-",
+  "nickNameBot": "Mêñɗîñɠ 🥀 mƴ 🥺 ɓr̃õƙêñ 💔 pîêçê🥀🖤",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
